@@ -1,0 +1,10 @@
+version: '3'
+services:
+  make_cv:
+    build: .
+    command: ruby make_cv.rb -o /output/output.pdf
+    volumes:
+      - ./:/output
+      - ./yaml_cv:/usr/src/app
+      - ./fonts:/usr/src/app/fonts
+
