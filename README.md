@@ -1,3 +1,12 @@
+!!!!!!!! このリポジトリはアーカイブされました !!!!!!!!
+===
+
+代替としては、 [ikasam/yaml_cv](https://github.com/ikasam/yaml_cv) を利用ください。
+
+<details>
+
+<summary>以前の内容</summary>
+ 
 YAMLによる履歴書作成スクリプト [kaityo256/yaml_cv](https://github.com/kaityo256/yaml_cv) の実行環境
 ===
 
@@ -56,3 +65,5 @@ License
 ===
 * [fonts](fonts) 配下のすべてのファイル: [IPA Font License V1.0](fonts/IPA_Font_License_Agreement_v1.0.txt)
 * 上記以外: [MIT License](LICENSE)
+
+</details>
